@@ -1,0 +1,14 @@
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\bin\Debug\net9.0\checkers_kkkkkkk.exe
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\bin\Debug\net9.0\checkers_kkkkkkk.deps.json
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\bin\Debug\net9.0\checkers_kkkkkkk.runtimeconfig.json
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\bin\Debug\net9.0\checkers_kkkkkkk.dll
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\bin\Debug\net9.0\checkers_kkkkkkk.pdb
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.AssemblyInfoInputs.cache
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.AssemblyInfo.cs
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.csproj.CoreCompileInputs.cache
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.dll
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\refint\checkers_kkkkkkk.dll
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.pdb
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\checkers_kkkkkkk.genruntimeconfig.cache
+C:\Users\miron\OneDrive\Рабочий стол\i jsu want to be cool, but i lost everithing, had no point, but where near me\checkers_kkkkkkk\obj\Debug\net9.0\ref\checkers_kkkkkkk.dll

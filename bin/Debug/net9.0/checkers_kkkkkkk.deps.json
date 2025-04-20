@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "checkers_kkkkkkk/1.0.0": {
+        "runtime": {
+          "checkers_kkkkkkk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "checkers_kkkkkkk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
